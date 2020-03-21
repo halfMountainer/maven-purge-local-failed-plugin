@@ -1,7 +1,7 @@
 # maven-purge-local-failed-plugin
 
 ### purpose
-I hate deleting uncompleted jar files from remote maven repository again and again . so I write this plugin to escape :)  
+I hate deleting uncompleted local jar files again and again which are downloaded from remote maven repository. so I write this plugin to escape :)  
 
 
 ### usage
